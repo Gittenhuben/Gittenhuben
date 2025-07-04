@@ -1,6 +1,6 @@
 **Мой стек с примерами проектов:**
 * Frontend:
-  * <a href="#"><img src="badges/html.svg" width=75 style="height: 24px;" align=left></a>
+  * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/html.svg"><source media="(prefers-color-scheme: light)" srcset="badges/html.svg"><img src="badges/html.svg" width=75 style="height: 24px;" align=left></picture>
 [[Оно тебе надо]](https://github.com/Gittenhuben/ono-tebe-nado)&nbsp;
 [[Сложно сосредоточиться]](https://github.com/Gittenhuben/slozhno-sosredotochitsya)&nbsp;
 [[Закрывающий тег]](https://github.com/Gittenhuben/zakrivayuschiy-teg-f)
