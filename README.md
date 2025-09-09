@@ -11,16 +11,19 @@
 [[Закрывающий тег]](https://github.com/Gittenhuben/zakrivayuschiy-teg-f)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/js.svg"><source media="(prefers-color-scheme: light)" srcset="badges/js.svg"><img src="badges/js.svg" width=75 style="height: 24px;" align=left></picture>
 [[Mesto]](https://github.com/Gittenhuben/mesto-project-ff)&nbsp;
-[[Rogue]](https://github.com/Gittenhuben/rogue)&nbsp;
+[[Rogue]](https://github.com/Gittenhuben/rogue)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/jquery.svg"><source media="(prefers-color-scheme: light)" srcset="badges/jquery.svg"><img src="badges/jquery.svg" width=75 style="height: 24px;" align=left></picture>
 [[Rogue]](https://github.com/Gittenhuben/rogue)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/ts.svg"><source media="(prefers-color-scheme: light)" srcset="badges/ts.svg"><img src="badges/ts.svg" width=75 style="height: 24px;" align=left></picture>
-[[Веб Ларёк (Frontend)]](https://github.com/Gittenhuben/web-larek-frontend)
+[[Веб Ларёк (Frontend)]](https://github.com/Gittenhuben/web-larek-frontend)&nbsp;
+[[Todos]](https://github.com/Gittenhuben/todos)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/react.svg"><source media="(prefers-color-scheme: light)" srcset="badges/react.svg"><img src="badges/react.svg" width=75 style="height: 24px;" align=left></picture>
 [[Blog Customizer]](https://github.com/Gittenhuben/blog-customizer)&nbsp;
-[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)
+[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
+[[Todos]](https://github.com/Gittenhuben/todos)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/redux.svg"><source media="(prefers-color-scheme: light)" srcset="badges/redux.svg"><img src="badges/redux.svg" width=75 style="height: 24px;" align=left></picture>
-[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)
+[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
+[[Todos]](https://github.com/Gittenhuben/todos)
 * Backend:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/express.svg"><source media="(prefers-color-scheme: light)" srcset="badges/express.svg"><img src="badges/express.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
@@ -34,9 +37,9 @@
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
 [[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/php.svg"><source media="(prefers-color-scheme: light)" srcset="badges/php.svg"><img src="badges/php.svg" width=75 style="height: 24px;" align=left></picture>
-(основы, есть несколько микросайтов)
+(основы)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/python.svg"><source media="(prefers-color-scheme: light)" srcset="badges/python.svg"><img src="badges/python.svg" width=75 style="height: 24px;" align=left></picture>
-(Selenium, Socket, Requests, Concurrent.futures, есть работающий бэк с ML)
+(Selenium, Socket, Requests, Concurrent.futures)
 * СУБД:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/mongodb.svg"><source media="(prefers-color-scheme: light)" srcset="badges/mongodb.svg"><img src="badges/mongodb.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
@@ -47,9 +50,11 @@
 * Тестирование:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/jest.svg"><source media="(prefers-color-scheme: light)" srcset="badges/jest.svg"><img src="badges/jest.svg" width=75 style="height: 24px;" align=left></picture>
 [[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
-[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)
+[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
+[[Todos]](https://github.com/Gittenhuben/todos)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/cypress.svg"><source media="(prefers-color-scheme: light)" srcset="badges/cypress.svg"><img src="badges/cypress.svg" width=75 style="height: 24px;" align=left></picture>
-[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)
+[[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
+[[Todos]](https://github.com/Gittenhuben/todos)
 * Data Science:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/python.svg"><source media="(prefers-color-scheme: light)" srcset="badges/python.svg"><img src="badges/python.svg" width=75 style="height: 24px;" align=left></picture>
 (NumPy, Pandas, Scikit-learn, Keras)&nbsp;
