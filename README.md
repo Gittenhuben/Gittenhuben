@@ -16,11 +16,13 @@
 [[Rogue]](https://github.com/Gittenhuben/rogue)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/ts.svg"><source media="(prefers-color-scheme: light)" srcset="badges/ts.svg"><img src="badges/ts.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Frontend)]](https://github.com/Gittenhuben/web-larek-frontend)&nbsp;
-[[Todos]](https://github.com/Gittenhuben/todos)
+[[Todos]](https://github.com/Gittenhuben/todos)&nbsp;
+[[Schedule]](https://github.com/Gittenhuben/schedule)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/react.svg"><source media="(prefers-color-scheme: light)" srcset="badges/react.svg"><img src="badges/react.svg" width=75 style="height: 24px;" align=left></picture>
 [[Blog Customizer]](https://github.com/Gittenhuben/blog-customizer)&nbsp;
 [[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
-[[Todos]](https://github.com/Gittenhuben/todos)
+[[Todos]](https://github.com/Gittenhuben/todos)&nbsp;
+[[Schedule]](https://github.com/Gittenhuben/schedule)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/redux.svg"><source media="(prefers-color-scheme: light)" srcset="badges/redux.svg"><img src="badges/redux.svg" width=75 style="height: 24px;" align=left></picture>
 [[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
 [[Todos]](https://github.com/Gittenhuben/todos)
