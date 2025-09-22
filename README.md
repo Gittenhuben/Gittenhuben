@@ -31,7 +31,8 @@
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
 [[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/nestjs.svg"><source media="(prefers-color-scheme: light)" srcset="badges/nestjs.svg"><img src="badges/nestjs.svg" width=75 style="height: 24px;" align=left></picture>
-[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)
+[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
+[[Tournament]](https://github.com/Gittenhuben/tournament)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/nginx.svg"><source media="(prefers-color-scheme: light)" srcset="badges/nginx.svg"><img src="badges/nginx.svg" width=75 style="height: 24px;" align=left></picture>
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
 [[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
@@ -48,7 +49,8 @@
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
 [[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/postgresql.svg"><source media="(prefers-color-scheme: light)" srcset="badges/postgresql.svg"><img src="badges/postgresql.svg" width=75 style="height: 24px;" align=left></picture>
-[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)
+[[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
+[[Tournament]](https://github.com/Gittenhuben/tournament)
 * Тестирование:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/jest.svg"><source media="(prefers-color-scheme: light)" srcset="badges/jest.svg"><img src="badges/jest.svg" width=75 style="height: 24px;" align=left></picture>
 [[Космическая бургерная]](https://github.com/Gittenhuben/stellar-burgers)&nbsp;
