@@ -29,7 +29,8 @@
 * Backend:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/express.svg"><source media="(prefers-color-scheme: light)" srcset="badges/express.svg"><img src="badges/express.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
-[[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
+[[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)&nbsp;
+[[Users]](https://github.com/Gittenhuben/users-express)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/nestjs.svg"><source media="(prefers-color-scheme: light)" srcset="badges/nestjs.svg"><img src="badges/nestjs.svg" width=75 style="height: 24px;" align=left></picture>
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
 [[Tournament]](https://github.com/Gittenhuben/tournament)
@@ -47,7 +48,8 @@
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/mongodb.svg"><source media="(prefers-color-scheme: light)" srcset="badges/mongodb.svg"><img src="badges/mongodb.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
-[[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)
+[[Веб Ларёк ("Плохой сервер")]](https://github.com/Gittenhuben/bad-server)&nbsp;
+[[Users]](https://github.com/Gittenhuben/users-express)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/postgresql.svg"><source media="(prefers-color-scheme: light)" srcset="badges/postgresql.svg"><img src="badges/postgresql.svg" width=75 style="height: 24px;" align=left></picture>
 [[Film! (Backend)]](https://github.com/Gittenhuben/film-react-nest)&nbsp;
 [[Tournament]](https://github.com/Gittenhuben/tournament)
