@@ -43,7 +43,7 @@
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/php.svg"><source media="(prefers-color-scheme: light)" srcset="badges/php.svg"><img src="badges/php.svg" width=75 style="height: 24px;" align=left></picture>
 (основы)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/python.svg"><source media="(prefers-color-scheme: light)" srcset="badges/python.svg"><img src="badges/python.svg" width=75 style="height: 24px;" align=left></picture>
-(Selenium, Socket, Requests, Concurrent.futures)
+(Selenium, Socket, Requests, Concurrent.futures, Telegram)
 * СУБД:
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/mongodb.svg"><source media="(prefers-color-scheme: light)" srcset="badges/mongodb.svg"><img src="badges/mongodb.svg" width=75 style="height: 24px;" align=left></picture>
 [[Веб Ларёк (Backend)]](https://github.com/Gittenhuben/web-larek-express)&nbsp;
