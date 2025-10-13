@@ -11,7 +11,8 @@
 [[Закрывающий тег]](https://github.com/Gittenhuben/zakrivayuschiy-teg-f)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/js.svg"><source media="(prefers-color-scheme: light)" srcset="badges/js.svg"><img src="badges/js.svg" width=75 style="height: 24px;" align=left></picture>
 [[Mesto]](https://github.com/Gittenhuben/mesto-project-ff)&nbsp;
-[[Rogue]](https://github.com/Gittenhuben/rogue)
+[[Rogue]](https://github.com/Gittenhuben/rogue)&nbsp;
+[[Crossword]](https://github.com/Gittenhuben/crossword)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/jquery.svg"><source media="(prefers-color-scheme: light)" srcset="badges/jquery.svg"><img src="badges/jquery.svg" width=75 style="height: 24px;" align=left></picture>
 [[Rogue]](https://github.com/Gittenhuben/rogue)
   * <picture><source media="(prefers-color-scheme: dark)" srcset="badges/ts.svg"><source media="(prefers-color-scheme: light)" srcset="badges/ts.svg"><img src="badges/ts.svg" width=75 style="height: 24px;" align=left></picture>
